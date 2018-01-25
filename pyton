@@ -1,0 +1,35 @@
+#!/bin/bash
+# https://www.youtube.com/watch?v=hwrnmQumtPw
+ 
+# chmod 755 strings
+  
+####  42:03 421
+
+
+ # sudo apt update
+ # sudo apt-get install python3.5
+     echo
+     printf "python --version =>  "
+     python --version
+     echo
+
+     echo
+     printf "python3 --version =>  "
+     python3 --version
+     echo
+	 printf "PATH =>  "
+	 echo  $PATH
+	 echo
+     printf "which python =>  "
+	 which python  
+
+    echo 
+    echo 
+    echo "printenv   "
+    echo '-------------------------'
+	printenv  
+    echo 
+    printenv PYTHONPATH
+     echo '-------------------------'
+    # to  run python 3  run python3
+    # cd /usr/local/lib/python3.5/dist-packages
