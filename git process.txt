@@ -70,6 +70,19 @@ Branch gh-pages set up to track remote branch gh-pages from origin.
 git push -u origin gh-pages:gh-pages
 
 
+Git push won't do anything (Everything up-to-date)
+------------------------------------------------
+
+
+add the new file from the browser
+ and commit it there 
+ 
+ 
+
+
+
+
+
 
  
 dos commands	 
