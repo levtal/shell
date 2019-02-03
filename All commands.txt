@@ -58,7 +58,7 @@ dircolors Colour setup for `ls'
 dirname Convert a full pathname to just a path
 dirs Display list of remembered directories
 
-dpkg --list : list of all installed packages on your computer
+dpkg --list: list of all installed packages on your computer
 
 dmesg Print kernel & driver messages
 du Estimate file space usage
@@ -71,7 +71,7 @@ eject Eject removable media
 enable Enable and disable builtin shell commands •
 
 env:    Environment variables
-
+eog:    "img.jpg" open image file
 ethtool Ethernet card settings
 eval Evaluate several commands/arguments
 exec Execute a command
@@ -259,6 +259,7 @@ units Convert units from one scale to another
 unset Remove variable or function names
 unshar Unpack shell archive scripts
 until Execute commands (until error)
+unzip ".zip":  uzip a zip file
 uptime Show uptime
 useradd Create new user account
 userdel Delete a user account
@@ -274,17 +275,18 @@ vmstat Report virtual memory statistics
 w
 wait Wait for a process to complete •
 watch Execute/display a program periodically
+
 wc Print byte, word, and line counts
 whereis Search the user's $path, man pages and source files for a program
 which Search the user's $path for a program file
 while Execute commands
 who Print all usernames currently logged in
 whoami Print the current user id and name (`id -un')
-wget Retrieve web pages or files via HTTP, HTTPS or FTP
+wget "url"  Retrieve web pages or files via HTTP, HTTPS or FTP
 write Send a message to another user
 x
 xargs Execute utility, passing constructed argument list(s)
 xdg-open Open a file or URL in the user's preferred application.
 yes Print a string until interrupted
-. Run a command script in the current shell
+.:   Run a command script in the current shell
 !! Run the last command again
